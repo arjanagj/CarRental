@@ -1,0 +1,25 @@
+
+g	java:S112)"FDefine and throw a dedicated exception instead of using a generic one.(ÀÇŠÊøÿÿÿÿ8ÚøÀîÇ1
+b	java:S1124"FDefine and throw a dedicated exception instead of using a generic one.(íßø­8ÛøÀîÇ1
+b	java:S112C"FDefine and throw a dedicated exception instead of using a generic one.(íßø­8ÛøÀîÇ1
+s
+java:S1192'"VDefine a constant instead of duplicating this literal "Reservation with id: " 5 times.( ÷¬ü8İøÀîÇ1
+h
+java:S1192%"KDefine a constant instead of duplicating this literal " not found" 5 times.(õşòî8ŞøÀîÇ1
+k
+java:S1192%"NDefine a constant instead of duplicating this literal "Car with id: " 3 times.(õşòî8ŞøÀîÇ1
+Y
+java:S4973("<Strings and Boxed types should be compared using "equals()".(íß¬à8áøÀîÇ1
+Y
+java:S49733"<Strings and Boxed types should be compared using "equals()".(íß¬à8âøÀîÇ1
+Y
+java:S4973B"<Strings and Boxed types should be compared using "equals()".(íß¬à8âøÀîÇ1
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘Ò‘f8äøÀîÇ1
+n
+java:S6204!"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ûê‘8†ùÀîÇ1
+F
+java:S1940(")Use the opposite operator ("!=") instead.(íß¬à8‹ùÀîÇ1
+F
+java:S19403")Use the opposite operator ("!=") instead.(íß¬à8ùÀîÇ1
+F
+java:S1940B")Use the opposite operator ("!=") instead.(íß¬à8•ùÀîÇ1

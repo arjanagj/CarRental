@@ -1,0 +1,25 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŒàÏáÿÿÿÿÿ
+x	java:S116"WRename this field "phone_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üœùÿÿÿÿ8ŸŠôÌÇ1
+c
+java:S1128"FRemove this unused import 'com.example.Car_Rental.entity.Reservation'.(àÅÂû8ÖÁ¸ÏÇ1
+^
+java:S1128"<Remove this unused import 'jakarta.persistence.CascadeType'.(ÃÃÊŠúÿÿÿÿ8üÆÎÍÇ1
+S
+java:S1128"7Remove this unused import 'jakarta.persistence.Column'.(Ó‰ÙE8üÆÎÍÇ1
+\
+java:S1128":Remove this unused import 'jakarta.persistence.OneToMany'.( ëîéúÿÿÿÿ8üÆÎÍÇ1
+c
+java:S1128"ARemove this unused import 'jakarta.validation.constraints.Email'.(Öï¤Âıÿÿÿÿ8•ÃÄÈ1
+a
+java:S1128"DRemove this unused import 'jakarta.validation.constraints.NotEmpty'.(µÇî±8—ÃÄÈ1
+]
+java:S1128	"@Remove this unused import 'jakarta.validation.constraints.Size'.(çÀ…Í8™ÃÄÈ1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8×Á¸ÏÇ1
+J
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8üÆÎÍÇ1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8×Á¸ÏÇ1
+L
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8ıÆÎÍÇ1

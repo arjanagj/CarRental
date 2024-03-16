@@ -1,0 +1,12 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŒàÏáÿÿÿÿÿ
+u	java:S116"TRename this field "date_from" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”“ô¡ıÿÿÿÿ8¶°úÌÇ1
+n	java:S116"RRename this field "date_to" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ççô«8·°úÌÇ1
+[
+java:S1128">Remove this unused import 'com.example.Car_Rental.entity.Car'.(†Á¯8ÆûºÏÇ1
+^
+java:S1128"ARemove this unused import 'com.example.Car_Rental.entity.Client'.(ÊÙ”ç8ÇûºÏÇ1
+R
+java:S1128"0Remove this unused import 'jakarta.persistence'.(Î«Ô§úÿÿÿÿ8êıœÄÈ1
+e
+java:S1128"CRemove this unused import 'jakarta.validation.constraints.NotNull'.(Àª•ıÿÿÿÿ8ëıœÄÈ1
